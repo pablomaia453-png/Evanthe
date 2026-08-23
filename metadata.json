@@ -1,0 +1,6 @@
+{
+  "name": "Evanthe — Comércio Exterior & Propriedade Intelectual",
+  "description": "Plataforma institucional da Evanthe integrando Comércio Exterior e Propriedade Intelectual para expansão internacional segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
